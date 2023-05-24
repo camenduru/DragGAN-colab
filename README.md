@@ -12,7 +12,7 @@
 ### Tutorial 
 https://www.youtube.com/watch?v=b9qLAI_Ojko
 
-### Main Repo (unoffical)
+### Main Repo (unofficial)
 https://github.com/Zeqiang-Lai/DragGAN
 
 ### Main Repo (code will be released in June)
