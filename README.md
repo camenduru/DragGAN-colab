@@ -23,3 +23,7 @@ https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ### Paper
 https://arxiv.org/abs/2305.10973
+
+## Output
+
+https://github.com/camenduru/DragGAN-colab/assets/54370274/71815be9-5784-43f2-9f83-4c0437999f0d
