@@ -9,5 +9,17 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DragGAN-colab/blob/main/draggan_colab.ipynb) | draggan_colab
 
-### Main Repo
+### Tutorial 
+https://www.youtube.com/watch?v=b9qLAI_Ojko
+
+### Main Repo (unoffical)
 https://github.com/Zeqiang-Lai/DragGAN
+
+### Main Repo (code will be released in June)
+https://github.com/XingangPan/DragGAN
+
+### Page
+https://vcai.mpi-inf.mpg.de/projects/DragGAN/
+
+### Paper
+https://vcai.mpi-inf.mpg.de/projects/DragGAN/
