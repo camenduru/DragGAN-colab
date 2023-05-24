@@ -22,4 +22,4 @@ https://github.com/XingangPan/DragGAN
 https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ### Paper
-https://vcai.mpi-inf.mpg.de/projects/DragGAN/
+https://arxiv.org/abs/2305.10973
