@@ -13,7 +13,7 @@
 ### Tutorial 
 https://www.youtube.com/watch?v=b9qLAI_Ojko
 
-### Main Repo (code will be released in June)
+### Main Repo
 https://github.com/XingangPan/DragGAN <br />
 https://github.com/LeoXing1996/DragGAN (official gradio) <br />
 https://github.com/Zeqiang-Lai/DragGAN (unofficial gradio) <br />
