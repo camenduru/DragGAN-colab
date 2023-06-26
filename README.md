@@ -14,9 +14,9 @@
 https://www.youtube.com/watch?v=b9qLAI_Ojko
 
 ### Main Repo (code will be released in June)
-https://github.com/XingangPan/DragGAN
-https://github.com/LeoXing1996/DragGAN (official gradio)
-https://github.com/Zeqiang-Lai/DragGAN (unofficial gradio)
+https://github.com/XingangPan/DragGAN <br />
+https://github.com/LeoXing1996/DragGAN (official gradio) <br />
+https://github.com/Zeqiang-Lai/DragGAN (unofficial gradio) <br />
 
 ### Page
 https://vcai.mpi-inf.mpg.de/projects/DragGAN/
