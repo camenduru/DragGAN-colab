@@ -26,4 +26,7 @@ https://arxiv.org/abs/2305.10973
 
 ## Output
 
+https://github.com/camenduru/DragGAN-colab/assets/54370274/44733966-aa0f-4e02-b432-22dd09d9cd09
+
 https://github.com/camenduru/DragGAN-colab/assets/54370274/71815be9-5784-43f2-9f83-4c0437999f0d
+
