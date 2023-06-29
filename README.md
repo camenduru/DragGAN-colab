@@ -8,6 +8,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DragGAN-colab/blob/main/draggan_custom_author_colab.ipynb) | draggan_custom_author_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DragGAN-colab/blob/main/draggan_author_colab.ipynb) | draggan_author_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DragGAN-colab/blob/main/draggan_colab.ipynb) | draggan_colab
 
