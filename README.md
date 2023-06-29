@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=b9qLAI_Ojko
 https://github.com/XingangPan/DragGAN <br />
 https://github.com/LeoXing1996/DragGAN (official gradio) <br />
 https://github.com/Zeqiang-Lai/DragGAN (unofficial gradio) <br />
+https://github.com/danielroich/PTI <br />
 
 ### Page
 https://vcai.mpi-inf.mpg.de/projects/DragGAN/
